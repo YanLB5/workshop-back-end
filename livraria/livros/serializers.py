@@ -14,4 +14,4 @@ class Compradores_dos_LivrosSerializer(serializers.ModelSerializer):
 class Fornecedor_LivrosSerializer(serializers.ModelSerializer):
     class Meta: 
         model = Fornecedor_Livros
-        fields=['CNPJ', 'e-mail', 'endereço']
+        fields=['CNPJ', 'email', 'endereço']
