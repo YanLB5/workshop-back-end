@@ -1,0 +1,4 @@
+meuEnv
+minhaVenv
+venv
+cliente1
